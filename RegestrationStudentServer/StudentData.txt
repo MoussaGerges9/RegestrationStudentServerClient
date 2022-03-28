@@ -1,0 +1,2 @@
+Name: Moussa, Number: 20, Department: Info
+Name: Mina, Number: Magdy, Department: Elettro
